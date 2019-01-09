@@ -98,6 +98,10 @@ Managed Communication and Consistency for Fast Data-Parallel Iterative Analytics
 SoCC 2015
 http://dl.acm.org/authorize?N91363
 
+Ako: Decentralised Deep Learning with Partial Gradient Exchange
+SOCC 2016
+https://lsds.doc.ic.ac.uk/sites/default/files/ako-socc16.pdf
+
 Poseidon: An Efficient Communication Architecture for Distributed Deep Learning on GPU Clusters
 ATC 2017
 https://www.usenix.org/system/files/conference/atc17/atc17-zhang.pdf
