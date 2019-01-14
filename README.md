@@ -88,6 +88,10 @@ Continuum: A Platform for Cost-Aware, Low-Latency Continual Learning
 SoCC 2018
 https://dl.acm.org/citation.cfm?id=3267817
 
+KeystoneML: Optimizing Pipelines for Large-ScaleAdvanced Analytics
+ICDE 2017
+https://amplab.cs.berkeley.edu/wp-content/uploads/2017/01/ICDE_2017_CameraReady_475.pdf
+
 ## Distributed learning
 
 Large Scale Distributed Deep Networks
@@ -243,6 +247,24 @@ AI2: Safety and Robustness Certification of Neural Networks with Abstract Interp
 SP 2018
 https://ieeexplore.ieee.org/document/8418593
 
+## Interpretability and Explainability
+
+“Why Should I Trust You?”Explaining the Predictions of Any Classifier
+KDD 2016
+https://www.kdd.org/kdd2016/papers/files/rfp0573-ribeiroA.pdf
+
+Learning to Explain: An Information-Theoretic Perspective on Model Interpretation
+ICML 2018
+https://arxiv.org/pdf/1802.07814.pdf
+
+A Unified Approach to Interpreting Model Predictions
+NIPS 2017
+https://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions.pdf
+
+The Mythos of Model Interpretability
+WHI 2016
+https://arxiv.org/pdf/1606.03490.pdf
+
 ## Model Management
 
 MISTIQUE: A System to Store and Query Model Intermediates for Model Diagnosis
@@ -327,6 +349,10 @@ https://dl.acm.org/citation.cfm?id=3230551
 Neural Adaptive Video Streaming with Pensieve
 SIGCOMM 2017
 https://dl.acm.org/citation.cfm?id=3098843
+
+Neural Adaptive Content-aware Internet Video Delivery
+OSDI 2018
+https://www.usenix.org/system/files/osdi18-yeo.pdf
 
 ## Workshops
 
