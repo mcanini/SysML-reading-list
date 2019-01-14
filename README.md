@@ -271,6 +271,10 @@ MISTIQUE: A System to Store and Query Model Intermediates for Model Diagnosis
 SIGMOD 2018
 https://dl.acm.org/citation.cfm?id=3196934
 
+MODELDB: A System for Machine Learning Model Management.
+HILDA 2016.
+https://mitdbg.github.io/modeldb/papers/hilda_modeldb.pdf
+
 Model Governance: Reducing the Anarchy of Production ML
 ATC 2018
 https://www.usenix.org/system/files/conference/atc18/atc18-sridhar.pdf
