@@ -92,6 +92,9 @@ KeystoneML: Optimizing Pipelines for Large-ScaleAdvanced Analytics
 ICDE 2017
 https://amplab.cs.berkeley.edu/wp-content/uploads/2017/01/ICDE_2017_CameraReady_475.pdf
 
+Owl: A General-Purpose Numerical Library in OCaml
+https://arxiv.org/pdf/1707.09616.pdf
+
 ## Distributed learning
 
 Large Scale Distributed Deep Networks
@@ -149,7 +152,7 @@ ACM Queue 16(1), 2018
 https://queue.acm.org/detail.cfm?id=3210557
 
 InferLine: ML Inference Pipeline Composition
-https://arxiv.org/abs/1812.01776
+https://arxiv.org/pdf/1812.01776.pdf
 
 PRETZEL: Opening the Black Box of Machine Learning Prediction Serving Systems
 OSDI 2018
@@ -196,14 +199,14 @@ https://dl.acm.org/citation.cfm?id=3126933
 
 Hemingway: Modeling Distributed Optimization Algorithms
 ML Systems Workshop at NIPS 2016
-https://arxiv.org/abs/1702.05865
+https://arxiv.org/pdf/1702.05865.pdf
 
 Asynchronous Methods for Deep Reinforcement Learning
 ICML 2016
 http://proceedings.mlr.press/v48/mniha16.pdf
 
 Don't Use Large Mini-Batches, Use Local SGD
-https://arxiv.org/abs/1808.07217
+https://arxiv.org/pdf/1808.07217.pdf
 
 GeePS: Scalable deep learning on distributed GPUs with a GPU-specialized parameter server
 EuroSys 2016
@@ -232,6 +235,9 @@ https://papers.nips.cc/paper/7117-can-decentralized-algorithms-outperform-centra
 Slow and Stale Gradients Can Win the Race: Error-Runtime Trade-offs in Distributed SGD
 AIStats 2018
 https://arxiv.org/pdf/1803.01113.pdf
+
+Probabilistic Synchronous Parallel
+https://arxiv.org/pdf/1709.07772.pdf
 
 ## AI Testing and Verification
 
@@ -271,8 +277,8 @@ MISTIQUE: A System to Store and Query Model Intermediates for Model Diagnosis
 SIGMOD 2018
 https://dl.acm.org/citation.cfm?id=3196934
 
-MODELDB: A System for Machine Learning Model Management.
-HILDA 2016.
+MODELDB: A System for Machine Learning Model Management
+HILDA 2016
 https://mitdbg.github.io/modeldb/papers/hilda_modeldb.pdf
 
 Model Governance: Reducing the Anarchy of Production ML
