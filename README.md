@@ -133,6 +133,10 @@ Orpheus: Efficient Distributed Machine Learning via System and Algorithm Co-desi
 SoCC 2018
 https://dl.acm.org/citation.cfm?id=3267810
 
+Petuum: A New Platform for Distributed Machine Learning on Big Data
+KDD 2015
+https://arxiv.org/pdf/1312.7651.pdf
+
 ## Serving systems and inference
 
 DeepCPU: Serving RNN-based Deep Learning Models 10x Faster
