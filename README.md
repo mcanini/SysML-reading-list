@@ -137,15 +137,14 @@ Petuum: A New Platform for Distributed Machine Learning on Big Data
 KDD 2015
 https://arxiv.org/pdf/1312.7651.pdf
 
+GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism
+https://arxiv.org/pdf/1811.06965.pdf
+
 ## Serving systems and inference
 
 DeepCPU: Serving RNN-based Deep Learning Models 10x Faster
 ATC 2018
 https://www.usenix.org/system/files/conference/atc18/atc18-zhang-minjia.pdf
-
-Pretzel: Opening the Black Box of Machine Learning Prediction Serving Systems
-OSDI 2018
-https://www.usenix.org/system/files/osdi18-lee.pdf
 
 Clipper: A Low-Latency Online Prediction Serving System
 NSDI 2017
