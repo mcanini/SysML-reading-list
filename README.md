@@ -292,6 +292,10 @@ The Missing Piece in Complex Analytics: Low Latency,Scalable Model Management an
 CIDR 2015
 http://www.bailis.org/papers/velox-cidr2015.pdf
 
+Bandana: Using Non-volatile Memory for Storing Deep Learning Models
+SysML 2019
+https://arxiv.org/abs/1811.05922
+
 ## Hardware
 
 Deep learning with limited numerical precision
