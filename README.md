@@ -6,6 +6,8 @@ A curated reading list of computer science research for work at the intersection
 A Berkeley View of Systems Challenges for AI
 https://arxiv.org/pdf/1712.05855.pdf
 
+Strategies and Principles of Distributed Machine Learning on Big Data https://arxiv.org/abs/1512.09295
+
 ## Background
 
 Deep learning
