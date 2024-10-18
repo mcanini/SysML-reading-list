@@ -1,4 +1,5 @@
 # Marco's SysML reading list
+
 A curated reading list of computer science research for work at the intersection of machine learning and systems. PR are welcome.
 
 ## Review
@@ -15,15 +16,16 @@ Deep learning
 Nature volume 521, 2015
 https://www.nature.com/articles/nature14539
 
-Deep learning reading list
-http://deeplearning.net/reading-list
-
 ## Measurement
 
 Multi-tenant GPU Clusters for Deep LearningWorkloads: Analysis and Implications
 https://www.microsoft.com/en-us/research/uploads/prod/2018/05/gpu_sched_tr.pdf
 
 ## Frameworks
+
+PyTorch: An Imperative Style, High-Performance Deep Learning Library
+NeurIPS 2019
+https://arxiv.org/pdf/1912.01703
 
 TensorFlow: A System for Large-Scale Machine Learning
 OSDI 2016
@@ -56,7 +58,7 @@ Journal of Machine Learning Research 18 (2018)
 https://arxiv.org/pdf/1603.06560.pdf
 
 Hyperopt: a Python library for model selection and hyperparameter optimization
-Computational Science & Discovery, 8(1) 2015 
+Computational Science & Discovery, 8(1) 2015
 http://iopscience.iop.org/article/10.1088/1749-4699/8/1/014008
 
 Auto-Keras: Efficient Neural Architecture Search with Network Morphism
@@ -99,6 +101,9 @@ Owl: A General-Purpose Numerical Library in OCaml
 https://arxiv.org/pdf/1707.09616.pdf
 
 ## Distributed learning
+
+MAST: Global Scheduling of ML Training across Geo-Distributed Datacenters at Hyperscale
+USENIX 2024
 
 Large Scale Distributed Deep Networks
 NIPS 2012
@@ -189,7 +194,7 @@ SLAQ: Quality-Driven Scheduling for Distributed Machine Learning
 SoCC 2017
 https://dl.acm.org/authorize?N46878
 
-Proteus: agile ML elasticity through tiered reliability in dynamic resource markets 
+Proteus: agile ML elasticity through tiered reliability in dynamic resource markets
 EuroSys 2017
 https://dl.acm.org/citation.cfm?id=3064182
 
@@ -202,6 +207,9 @@ SC 2017
 https://dl.acm.org/citation.cfm?id=3126933
 
 ## Algorithmic aspects in scalable ML
+
+The Case for Learning Index Structures
+https://arxiv.org/pdf/1712.01208.pdf
 
 Hemingway: Modeling Distributed Optimization Algorithms
 ML Systems Workshop at NIPS 2016
@@ -409,9 +417,22 @@ RLgraph: Flexible Computation Graphs for Deep Reinforcement Learning
 SysML 2019
 https://arxiv.org/pdf/1810.09028.pdf
 
+## Courses on ML Systems
+
+CMU: Deep Learning Systems (Graduate Level)
+https://dlsyscourse.org/lectures/
+Slides + Recorded Lectures + Assignments Included
+
+MIT: TinyML and Efficient Deep Learning Computing (Graduate Level)
+https://hanlab.mit.edu/courses/2024-fall-65940
+Slides + Recorded Lectures + Assignments Included
+
+Stanford: CS329S: Machine Learning Systems Design (Undergraduate Level)
+https://stanford-cs329s.github.io/syllabus.html
+Slides Only, Focus is on ML Systems Lifecycle, more Industry/Engineering Oriented
+
 ## For adding/updating the list
 
 1. Fork the repository
 2. Update this file
 3. Send a pull request
-
